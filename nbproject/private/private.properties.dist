@@ -1,0 +1,2 @@
+#Change the name of this file to private.properties and change the username to your username. Then build and run.
+user.properties.file=C:\\Users\\%USERNAME%\\AppData\\Roaming\\NetBeans\\8.2\\build.properties
